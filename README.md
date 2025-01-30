@@ -1,2 +1,2 @@
-# CplusPlus-Excercises-
+# CplusPlus-Excercises
 Provide Various Excercises for C++
